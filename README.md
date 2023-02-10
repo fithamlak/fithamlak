@@ -1,4 +1,4 @@
-### Hi, I am Nelson Araujo 👋
+### Hi, I am Fithamlak Fikrie 👋
 
 
 <div align="center">
