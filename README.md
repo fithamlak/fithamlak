@@ -1,14 +1,9 @@
 ### Hi, I am Fithamlak Fikrie 👋
 
 
-<div align="center">
-
-  <img src="https://vagosstudios.com/assets/images/logo-navbar.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h1><b>Fithamlak Fikrie</b></h1>
- 
-</div>
+
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening on 2023?</i></h2>
