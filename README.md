@@ -2,7 +2,7 @@
 
 
 
-  <h1><b>Fithamlak Fikrie With BSc in Software Engineering From Addis Ababa Sciense And Technology University</b></h1>
+  <h1><b>Full Stack  Software Engineer</b></h1>
 
 <!------------------------------ Now ------------------------------>
  <section>
