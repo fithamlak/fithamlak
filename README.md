@@ -22,7 +22,7 @@
 </section>
 <!------------------------------ Knowledge ------------------------------>
  <section>
-  <h2><i>Knowledge</i></h2>
+  <h2><i>Technical Skills</i></h2>
   <br>
 <p align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
