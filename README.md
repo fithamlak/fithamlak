@@ -10,7 +10,7 @@
  I am currently on my Micreoverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
   
  - 📧 justiceofgod01@gmail.com
-  - 🔗 [Fithamlak Fikrie - LinkedIn] (https://www.linkedin.com/in/fithamlak-fikrie-942169225/)
+  - 🔗 [Fithamlak Fikrie - LinkedIn] (https://www.linkedin.com/in/fithamlak-fikrie/)
 </section>
 <!------------------------------ Experience ------------------------------>
  <section>
