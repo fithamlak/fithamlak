@@ -17,7 +17,7 @@
   <h2><i>Experience</i></h2>
   <br>
   <p>
-  In my Tow years of experience in web development, I had built different web applications and websites. In my experience, mostely I used to work with agile methodologies as SCRUM being not only part of a team but also Scrum Master many times. I applied this methodologies which I understand theorethicaly in my BSc in software engineering and use in work environmeent.
+  In my Four years of experience in web development, I had built different web applications and websites. In my experience, mostely I used to work with agile methodologies as SCRUM being not only part of a team but also Scrum Master many times. I applied this methodologies which I understand theorethicaly in my BSc in software engineering and use in work environmeent.
   </p>
 </section>
 <!------------------------------ Knowledge ------------------------------>
