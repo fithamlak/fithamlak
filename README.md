@@ -6,14 +6,7 @@
   Dedicated and efficient full-stack web developer with 4 years of hands-on experience, and passion for emerging technologies in full-stack web development and cyber security. I have a detailed understanding and experience in full-stack web development with MongoDB, NodeJS, ExpressJS, and React with the latest implementation in each stack. Equally valued with my technical skills I am also a proactive learner, team player, committed, and in love with remote pair programming thanks to microverse online remote practical web development school.
  </section>
 
-<!------------------------------ Now ------------------------------>
- <section>
-   <h2><i>My Progress in 2023</i></h2>
- I am currently on my Micreoverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
-  
- - 📧 justiceofgod01@gmail.com
-  - 🔗 [Fithamlak Fikrie - LinkedIn] (https://www.linkedin.com/in/fithamlak-fikrie/)
-</section>
+
 <!------------------------------ Experience ------------------------------>
  <section>
   <h2><i>Experience</i></h2>
