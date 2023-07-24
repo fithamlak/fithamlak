@@ -3,7 +3,7 @@
 
  <section>
   <h1><b>Full Stack  Software Engineer</b></h1>
-  Dedicated and efficient full-stack web developer with 4 years of hands-on experience, and passion for emerging technologies in full-stack web development and cyber security. I have a detailed understanding and experience in full-stack web development with MongoDB, NodeJS, ExpressJS, and React with the latest implementation in each stack. Equally valued with my technical skills I am also a proactive learner, team player, committed, and in love with remote pair programming thanks to microverse online remote practical web development school.
+ Dedicated and efficient Full-Stack Web Developer boasting 4 years of professional experience in both frontend and backend development with the MERN stack. Demonstrated history of developing quality software using this technology, currently expanding skill set to include Ruby and Ruby on Rails which gives evidence for my skill in learning new languages and remote collaboration. A proven track record in creating secure systems is evidenced by professional experience as an Exploit Researcher and Ethical Hacker with the Cyber Security institution, INSA.
  </section>
 
 
