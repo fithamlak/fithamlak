@@ -1,4 +1,4 @@
-<h2><i>Hi there, [I'm Fithamlak Fikrie](/#)!👋</i></h2>
+<h2><i>Hi there, [I'm Fithamlak Fikrie](#)!👋</i></h2>
 
 -  I am a passionate full-stack software developer. I enjoy working on all kinds of tech.
 -  I’m currently available for new opportunities
