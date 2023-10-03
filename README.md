@@ -2,7 +2,7 @@ Hi there, I'm Fithamlak Fikrie!👋<br><br>
 I am a passionate full-stack software developer. I enjoy working on all kinds of tech.
 I’m currently available for new opportunities
 
-I'm currently building API for a mobile banking project
+I'm currently cutomizing chromium browser
 
 👯 I’m looking to collaborate on Software Development Projects
 
