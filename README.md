@@ -1,4 +1,4 @@
-Hi there, I'm Fithamlak Fikrie!👋<br>
+Hi there, I'm Fithamlak Fikrie!👋<br> <br>
 I am a passionate full-stack software developer. I enjoy working on all kinds of tech.
 I’m currently available for new opportunities
 
