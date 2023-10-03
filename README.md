@@ -6,7 +6,7 @@ I'm currently building API for a mobile banking project
 
 👯 I’m looking to collaborate on Software Development Projects
 
-👨‍💻 My projects are available at [https://fithamlak.github.io/My-Portfolio/] (Fithamlak-Fikrie)
+👨‍💻 My projects are available at [Fithamlak-Fikrie](https://fithamlak.github.io/My-Portfolio/)
 
 ⚡ I like 👨‍💻 : Coding | 📖: Reading | ⚽: Football | 📽: Movies
 <!------------------------------ Knowledge ------------------------------>
