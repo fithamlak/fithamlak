@@ -1,14 +1,14 @@
 <h2><i>Hi there, I'm Fithamlak Fikrie!👋</i></h2>
-I am a passionate full-stack software developer. I enjoy working on all kinds of tech.
-I’m currently available for new opportunities
+-  I am a passionate full-stack software developer. I enjoy working on all kinds of tech.
+-  I’m currently available for new opportunities
 
-I'm currently cutomizing chromium browser
+-  I'm currently cutomizing chromium browser
 
-👯 I’m looking to collaborate on Software Development Projects
+-  👯 I’m looking to collaborate on Software Development Projects
 
-👨‍💻 My projects are available at [Fithamlak-Fikrie](https://fithamlak.github.io/My-Portfolio/)
+-  👨‍💻 My projects are available at [Fithamlak-Fikrie](https://fithamlak.github.io/My-Portfolio/)
 
-⚡ I like 👨‍💻 : Coding | 📖: Reading | ⚽: Football | 📽: Movies
+-  ⚡ I like 👨‍💻 : Coding | 📖: Reading | ⚽: Football | 📽: Movies
 <!------------------------------ Knowledge ------------------------------>
  <section>
   <h2><i>Technical Skills</i></h2>
