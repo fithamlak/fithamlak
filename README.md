@@ -9,7 +9,7 @@
 
 -  👨‍💻 My projects are available at [Fithamlak-Fikrie](https://fithamlak.github.io/My-Portfolio/)
 
--  ⚡ I like 👨‍💻 : Coding | 📖: Reading | ⚽: Football | 📽: Movies
+-  ⚡ I like 👨‍💻 : Coding | 📖: Reading | 📽: Movies
 <!------------------------------ Knowledge ------------------------------>
  <section>
   <h2><i>Technical Skills</i></h2>
