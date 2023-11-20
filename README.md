@@ -7,7 +7,7 @@
 
 -  👯 I’m looking to collaborate on Software Development Projects
 
--  👨‍💻 My projects are available at [Fithamlak-Fikrie](https://fithamlak.github.io/My-Portfolio/)
+-  👨‍💻 My projects are available at [Fithamlak-Fikrie-Portfolio](https://fithamlak.github.io/My-Portfolio/)
 
 -  ⚡ I like 👨‍💻 : Coding | 📖: Reading | 📽: Movies
 <!------------------------------ Knowledge ------------------------------>
