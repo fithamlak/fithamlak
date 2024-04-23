@@ -7,8 +7,6 @@
 
 -  👯 I’m looking to collaborate on Software Development Projects
 
--  👨‍💻 My projects are available at [Fithamlak-Fikrie-Portfolio](https://abyssiniasoftware.com/)
-
 -  ⚡ I like 👨‍💻 : Coding | 📖: Reading | 📽: Movies
 <!------------------------------ Knowledge ------------------------------>
  <section>
